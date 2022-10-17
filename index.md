@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Rising Stars in Solar Research" 
-feature-img: "assets/img/header/rising_stars_banner.png" 
+feature-img: "assets/img/header/rising_stars_2.png" 
 hide: true                           # Prevent the page title to appear in the navbar
 icon: "fa-search"                    # Will Display only the fontawesome icon (here: fa-search) and not the title
 ---
