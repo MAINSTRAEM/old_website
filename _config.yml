@@ -10,7 +10,7 @@ favicon: assets/rising_star.png                             # Icon displayed in 
 
 # Header and footer text
 header_text: "Rising Stars in Solar Research" # Change Blog header text
-header_feature_image: assets/img/header/rising_stars_banner.png
+header_feature_image: assets/img/header/rising_stars_2.png
 header_feature_image_responsive: true
 footer_text: " "
 
