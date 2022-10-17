@@ -1,5 +1,9 @@
 ---
-layout: default
+layout: page
+title: "Rising Stars in Solar Research" 
+feature-img: "assets/img/header/rising_stars_banner.png" 
+hide: true                           # Prevent the page title to appear in the navbar
+icon: "fa-search"                    # Will Display only the fontawesome icon (here: fa-search) and not the title
 ---
 
 MAINSTRAEM - **M**entorship **a**nd **I**nclusive **N**etworking of **S**olar **T**hemed **R**esearchers and **A**ccelerating **E**merging **M**egastars.
