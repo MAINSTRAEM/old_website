@@ -2,7 +2,7 @@
 layout: default
 ---
 
-MAINSTRAEM - Mentorship and Inclusive Networking of Solar Themed Researchers and Accelerate Emerging Megastars.
+MAINSTRAEM - **M**entorship **a**nd **I**nclusive **N**etworking of **S**olar **T**hemed **R**esearchers and **A**ccelerating **E**merging **M**egastars.
 
 Click here to register your interest/apply for a participant ticket.
 
