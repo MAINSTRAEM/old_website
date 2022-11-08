@@ -9,7 +9,7 @@ avatar: assets/img/1F4AB_color.png                     # Empty for no avatar in 
 favicon: assets/1F4AB_color.png                        # Icon displayed in the tab
 
 # Header and footer text
-header_text: " " # Change Blog header text
+header_text: "  " # Change Blog header text
 header_feature_image: assets/img/pexels/travel.jpeg
 header_feature_image_responsive: true
 footer_text: " "
