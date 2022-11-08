@@ -8,9 +8,12 @@ icon: "fa-search"                    # Will Display only the fontawesome icon (h
 
 MAINSTRAEM - **M**entorship **a**nd **I**nclusive **N**etworking of **S**olar **T**hemed **R**esearchers and **A**ccelerating **E**merging **M**egastars.
 
-Click here to register your interest/apply for a participant ticket.
+[Click here to register your interest/apply for a participant ticket]().
 
-Created by early career researchers to celebrate and support the rising stars within underrepresented groups in solar research, the first of the MAINSTREAM events will be hosted in January 2023.
+Created by early career researchers to celebrate and support the rising stars within underrepresented groups in solar research, the first of the MAINSTREAM events will be hosted in January 2023:
+
+Date: Friday 13th January
+Location: Henry Royce Institute, The University of Manchester
 
 This full day event will combine intensive career skills workshops with creative networking activities as well as a carefully selected Q & A panel of experts with recent successes in their career paths. Priority registration will be given to historically marginalised groups whilst travel grants and funding for caring responsibilities are available upon application to aid accessibility. In addition, up to 5 attendees will be selected as ‘Emerging Megastars’ and be awarded up to £1k in cash along with tailored training and mentorship opportunities.
 
