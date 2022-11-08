@@ -5,12 +5,12 @@ url: "mainstraem.github.io"
 # THEME-SPECIFIC CONFIGURATION
 title: MAINSTRAEM                                 # site's title
 description: "Rising Stars in Solar Research"      # used by search engines
-avatar: assets/img/rising_star.png                         # Empty for no avatar in navbar
-favicon: assets/rising_star.png                             # Icon displayed in the tab
+avatar: assets/img/1F4AB_color.png                     # Empty for no avatar in navbar
+favicon: assets/1F4AB_color.png                        # Icon displayed in the tab
 
 # Header and footer text
 header_text: "Rising Stars in Solar Research" # Change Blog header text
-header_feature_image: assets/img/header/rising_stars_2.png
+header_feature_image: assets/img/header/bia-andrade-SmkZz4aR-Ng-unsplash.jpg
 header_feature_image_responsive: true
 footer_text: " "
 
