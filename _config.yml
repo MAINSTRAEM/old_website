@@ -3,7 +3,7 @@ baseurl: ""
 url: "mainstraem.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title: Rising Stars in Solar Research                                 # site's title
+title: Rising Stars in Solar Research                                  # site's title
 description: "Rising Stars in Solar Research"      # used by search engines
 avatar: assets/img/1F4AB_color.png                     # Empty for no avatar in navbar
 favicon: assets/1F4AB_color.png                        # Icon displayed in the tab
