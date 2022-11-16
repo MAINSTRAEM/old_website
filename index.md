@@ -19,7 +19,7 @@ This full day event will combine intensive career skills workshops with creative
 
 This years participants will be invited to provide feedback to co-develop further events to ensure the relevance and usefulness of future activities. This January will be the launch of the MAINSTRAEM event series but it’s success depends on it’s participants, helping them to not only work but to thrive in the solar energy community. These events, in line with the UK Government’s R&D people and culture strategy visions, aim to address the diversity gap within STEM research and hence enhance the diversity of thought and innovations within solar energy. 
 
-Supported by L’Oreal, IOP and the Royal Society of Chemistry, this interdisciplinary meeting welcomes the whole systems collaboration of solar engineers, material scientists, energy modellers, industrial researchers and all those surrounding the discipline of solar energy. 
+Supported by Royce, L’Oreal, the Royal Society of Chemistry, this interdisciplinary meeting welcomes the whole systems collaboration of solar engineers, material scientists, energy modellers, industrial researchers and all those surrounding the discipline of solar energy. 
 
 
 
