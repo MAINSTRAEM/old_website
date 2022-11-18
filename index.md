@@ -6,7 +6,7 @@ hide: true                           # Prevent the page title to appear in the n
 icon: "fa-search"                    # Will Display only the fontawesome icon (here: fa-search) and not the title
 ---
 
-Created by early career researchers to celebrate and support the rising stars within underrepresented groups in Science Technology, Engineering and Mathematics (STEM) Topics, our first event will be hosted in January 2023 targetted at the Rising Stars in Materials Science:
+Created by early career researchers to celebrate and support the rising stars within underrepresented groups in Science, Technology, Engineering and Mathematics (STEM) Topics, our first event will be hosted in January 2023 targetted at the Early Career Researchers (e.g. PhD's and Post Docs) in Materials Science:
 
 **Date:** Friday 13th January        
 **Location:** Henry Royce Institute, The University of Manchester, Oxford Rd, Manchester, M13 9PL, UK.
