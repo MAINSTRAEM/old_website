@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "[[assets/img/RisingStarsColour.png|Rising Stars in Materials Science]]"
+title: "assets/img/RisingStarsColour.png"
 feature-img: "assets/img/pexels/travel.jpeg" 
 hide: true                           # Prevent the page title to appear in the navbar
 icon: "fa-search"                    # Will Display only the fontawesome icon (here: fa-search) and not the title
