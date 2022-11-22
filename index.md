@@ -1,10 +1,12 @@
 ---
 layout: page
-title: "assets/img/RisingStarsColour.png"
+title: "Rising Stars in Materials Science"
 feature-img: "assets/img/pexels/travel.jpeg" 
 hide: true                           # Prevent the page title to appear in the navbar
 icon: "fa-search"                    # Will Display only the fontawesome icon (here: fa-search) and not the title
 ---
+
+[[/assets/img/Risingstarsmaterialscience.png|Rising Stars in Materials Science Promotional Information]] 
 
 Created by early career researchers to celebrate and support the rising stars within underrepresented groups in Science, Technology, Engineering and Mathematics (STEM) Topics, our first event will be hosted in January 2023 targeted at Early Career Researchers (e.g. PhD's and Post Docs) in Materials Science:
 
