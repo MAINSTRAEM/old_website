@@ -3,10 +3,10 @@ baseurl: ""
 url: "mainstraem.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title: Rising Stars in Materials Science                                  # site's title
-description: "Rising Stars in Materials Science"      # used by search engines
-avatar: assets/img/1F4AB_color.png                     # Empty for no avatar in navbar
-favicon: assets/1F4AB_color.png                        # Icon displayed in the tab
+title:                                              # site's title
+description: "Rising Stars in Materials Science"    # used by search engines
+avatar: RisingStarsColour.png                       # Empty for no avatar in navbar
+favicon: assets/RISING STARS favicon.ico            # Icon displayed in the tab
 
 # Header and footer text
 header_text: "  " # Change Blog header text
