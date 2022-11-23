@@ -6,9 +6,9 @@ hide: true                           # Prevent the page title to appear in the n
 icon: "fa-search"                    # Will Display only the fontawesome icon (here: fa-search) and not the title
 ---
 
-<img src="/assets/img/RisingStarsHeader.png"> 
+<div><img src="/assets/img/RisingStarsHeader.png" alt="Rising Stars Event Information" border=0"></div>
 
-Created by early career researchers to celebrate and support the rising stars within underrepresented groups in Science, Technology, Engineering and Mathematics (STEM) Topics, our first event will be hosted in January 2023 targeted at Early Career Researchers (e.g. PhD's and Post Docs) in Materials Science:
+<div>Created by early career researchers to celebrate and support the rising stars within underrepresented groups in Science, Technology, Engineering and Mathematics (STEM) Topics, our first event will be hosted in January 2023 targeted at Early Career Researchers (e.g. PhD's and Post Docs) in Materials Science:</div>
 
 **Date:** Friday 13th January        
 **Location:** The Henry Royce Institute, The University of Manchester, Oxford Road, Manchester, M13 9PL, UK.
@@ -23,7 +23,7 @@ This years participants will be invited to provide feedback to co-develop furthe
 
 This event is supported by Royce, L’Oreal and the Royal Society of Chemistry. 
 
-<img src="assets/img/Rising Stars Footer.png">
+<div><img src="assets/img/Rising Stars Footer.png" alt="Rising Stars Event Supporters" border="0"></div>
 
 
 
