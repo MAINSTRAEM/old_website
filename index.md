@@ -6,7 +6,7 @@ hide: true                           # Prevent the page title to appear in the n
 icon: "fa-search"                    # Will Display only the fontawesome icon (here: fa-search) and not the title
 ---
 
-<div><img src="/assets/img/RisingStarsHeader.png" alt="Rising Stars Event Information" border=0"></div>
+<div><img src="/assets/img/RisingStarsHeader.png" alt="Rising Stars Event Information"></div>
 
 <div>Created by early career researchers to celebrate and support the rising stars within underrepresented groups in Science, Technology, Engineering and Mathematics (STEM) Topics, our first event will be hosted in January 2023 targeted at Early Career Researchers (e.g. PhD's and Post Docs) in Materials Science:</div>
 
