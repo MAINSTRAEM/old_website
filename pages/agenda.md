@@ -3,7 +3,6 @@ layout: page
 title: Agenda
 permalink: /agenda/
 feature-img: "assets/img/pexels/travel.jpeg"
-tags: [Page]
 ---
 
 | Time | Activity | Notes | 
