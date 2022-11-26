@@ -2,7 +2,7 @@
 layout: page
 title: Agenda
 permalink: /agenda/
-feature-img: "assets/img/pexels/travel.jpeg"
+feature-img: "assets/img/blank_teal.png"
 ---
 
 | Time | Activity | Notes | 
