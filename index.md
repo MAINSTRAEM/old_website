@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: ""
 hide: true                           # Prevent the page title to appear in the navbar
 icon: "fa-search"                    # Will Display only the fontawesome icon (here: fa-search) and not the title
@@ -7,8 +7,11 @@ icon: "fa-search"                    # Will Display only the fontawesome icon (h
 
 <div><img src="/assets/img/RisingStarsHeader.png" alt="Rising Stars Event Information"></div>
 
+</br>
+
 <div>Created to celebrate and support the rising stars within underrepresented groups in Science, Technology, Engineering and Mathematics (STEM) Topics, our first event will be targeted at Early Career Researchers (whether a  PhD student, Post-Doc or in a permenant position) in Materials Science:</div>
 
+</br> 
 
 **Date:** Friday 13th January        
 **Location:** The Henry Royce Institute, The University of Manchester, Oxford Road, Manchester, M13 9PL, UK.
