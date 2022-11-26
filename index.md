@@ -5,12 +5,9 @@ hide: true                           # Prevent the page title to appear in the n
 icon: "fa-search"                    # Will Display only the fontawesome icon (here: fa-search) and not the title
 ---
 
-<div><img src="/assets/img/RisingStarsHeader.png" alt="Rising Stars Event Information"></div>
+!["Rising stars event information - date, time, location"](./assets/img/RisingStarsHeader.png)
 
-
-<div>Created to celebrate and support the rising stars within underrepresented groups in Science, Technology, Engineering and Mathematics (STEM) Topics, our first event will be targeted at Early Career Researchers (whether a  PhD student, Post-Doc or in a permenant position) in Materials Science:</div>
-
-
+Created to celebrate and support the rising stars within underrepresented groups in Science, Technology, Engineering and Mathematics (STEM) Topics, our first event will be targeted at Early Career Researchers (whether a  PhD student, Post-Doc or in a permenant position) in Materials Science:
 
 **Date:** Friday 13th January        
 **Location:** The Henry Royce Institute, The University of Manchester, Oxford Road, Manchester, M13 9PL, UK.
@@ -23,7 +20,7 @@ This full day event will combine intensive career skills workshops, creative net
 
 This years participants will be invited to provide feedback to co-develop further events to ensure the relevance and usefulness of future activities. Overrall, the events aim to support researchers to not only work but to thrive in their research community, to address the diversity gap within STEM research, and to hence enhance the diversity of thought and innovation. 
 
-<div><img src="assets/img/Rising Stars Footer.png" alt="Rising Stars Event Supporters" border="0"></div>
+!["Rising stars event supporters"](./assets/img/RisingStarsFooter.png)
 
 
 
