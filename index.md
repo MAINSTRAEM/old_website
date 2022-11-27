@@ -1,6 +1,5 @@
 ---
-layout: default
-title: ""
+layout: page
 hide: true                           # Prevent the page title to appear in the navbar
 icon: "fa-search"                    # Will Display only the fontawesome icon (here: fa-search) and not the title
 ---
