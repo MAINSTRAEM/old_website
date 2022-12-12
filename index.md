@@ -11,7 +11,7 @@ Created to celebrate and support the rising stars within underrepresented groups
 **Date:** Friday 13th January        
 **Location:** The Henry Royce Institute, The University of Manchester, Oxford Road, Manchester, M13 9PL, UK.
 
-[Click here to register for a participant ticket](https://forms.office.com/r/DgJ6TH8EPU).
+[Click here to register for a participant ticket](https://forms.office.com/r/DgJ6TH8EPU). (Deadline: Monday 19th December!)
 
 [Can't make this event? Click here to register your interest for future events](https://forms.office.com/r/vFve9CKBM4).
 
