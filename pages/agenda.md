@@ -5,6 +5,8 @@ permalink: /agenda/
 feature-img: "assets/img/blank_teal.png"
 ---
 
+### Agenda for the Rising Stars launch workshop, January 2023
+
 | Time | Activity | Notes | 
 |------|-------|-------|
 | 09:30 | Registration | | 
