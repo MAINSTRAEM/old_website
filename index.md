@@ -4,8 +4,6 @@ hide: true                           # Prevent the page title to appear in the n
 icon: "fa-search"                    # Will Display only the fontawesome icon (here: fa-search) and not the title
 ---
 
-# Rising Stars in Materials Science
-
 Created to celebrate and support the rising stars within underrepresented groups in Science, Technology, Engineering and Mathematics (STEM) Topics, our first events will be targeted at Early Career Researchers (whether a  PhD student, Post-Doc or in a permenant position) in Materials Science.
 
 ## Upcoming
