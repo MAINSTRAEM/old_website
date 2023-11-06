@@ -1,6 +1,11 @@
-[Missed something? Click here to register your interest for future events](https://forms.office.com/r/vFve9CKBM4).
+---
+layout: page
+title: Previous events
+permalink: /previous/
+feature-img: "assets/img/blank_teal.png"
+---
 
-## Previous Events
+[Missed something? Click here to register your interest for future events](https://forms.office.com/r/vFve9CKBM4).
 
 #### Rising Stars and the Henry Royce Institute: Stand Out Skills Webinar - Build your own academic website.
 
