@@ -13,9 +13,9 @@ Rising Stars in Materials Science 2024 workshop
 **Date:** Friday 9th of February, 2024.      
 **Location:** The Henry Royce Institute, The University of Manchester, Oxford Road, Manchester, M13 9PL, UK.
 
-Registration will open soon. A draft agenda is available [here](https://mainstraem.github.io/agenda/).
+Registration is available through the Royce website [here](https://www.royce.ac.uk/events/rising-stars-2024/). A draft agenda is available [here](https://mainstraem.github.io/agenda/).
 
-[Can't make this event? Click here to register your interest for future events](https://forms.office.com/r/vFve9CKBM4).
+[Can't make this event? Click here to register your interest for future Rising Stars events](https://forms.office.com/r/vFve9CKBM4).
 
 This full day event will combine intensive career skills workshops, creative networking activities and a carefully selected Q & A panel of experts with recent successes in their career paths. Priority registration will be given to historically marginalised groups, and funding for travel and/or caring responsibilities are available to aid accessibility. 
 
