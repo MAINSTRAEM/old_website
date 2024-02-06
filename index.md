@@ -2,6 +2,7 @@
 layout: page
 title: Welcome
 feature-img: "assets/img/blank_teal.png"
+order: 1
 ---
 
 Created to celebrate and support the rising stars within underrepresented groups in Science, Technology, Engineering and Mathematics (STEM) Topics, our events are primarily targeted at Early Career Researchers (whether a  PhD student, Post-Doc or in a permenant position) in Materials Science.
