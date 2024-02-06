@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 feature-img: "assets/img/blank_teal.png"
+order: 2
 ---
 
 Rising Stars has been created to celebrate and support the rising stars within underrepresented groups in Science, Technology, Engineering and Mathematics (STEM) Topics. It is a grassroots initiative led by researchers in the UK Materials Science community, and is primarily targeted at Early Career Researchers (whether PhD student, post-doc or holding a permenant position) in Materials Science.
